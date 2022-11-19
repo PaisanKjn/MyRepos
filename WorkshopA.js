@@ -21,3 +21,4 @@
 }
 
 console.log(showUser(user))
+console.log(showUser(user))
