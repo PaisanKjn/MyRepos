@@ -1,0 +1,23 @@
+{
+  "name": "Paisan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaisanKjn/MyRepos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaisanKjn/MyRepos/issues"
+  },
+  "homepage": "https://github.com/PaisanKjn/MyRepos#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
